@@ -1,0 +1,32 @@
+{
+  "name": "gurepu",
+  "displayName": "Gurepu",
+  "icon": "images/icon.png",
+  "version": "0.0.1",
+  "publisher": "annliu",
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gurepu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gurepu.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ann-liu/gurepu-theme.git"
+  },
+  "author": "ann liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ann-liu/gurepu-theme/issues"
+  },
+  "homepage": "https://github.com/ann-liu/gurepu-theme#readme"
+}
