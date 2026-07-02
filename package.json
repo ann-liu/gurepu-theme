@@ -1,8 +1,9 @@
 {
   "name": "gurepu",
   "displayName": "Gurepu",
+  "description": "Candy colored dark color theme",
   "icon": "images/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "annliu",
   "engines": {
     "vscode": "^1.116.0"
