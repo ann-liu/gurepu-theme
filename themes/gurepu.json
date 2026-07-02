@@ -17,11 +17,11 @@
     "sideBarSectionHeader.background": "#161226",
     "editor.lineHighlightBorder": "#161226",
     "activityBarBadge.foreground": "#161226",
-    "editor.selectionBackground": "#3f267f",
-    "editor.selectionHighlightBackground": "#3f267fd9",
-    "editor.inactiveSelectionBackground": "#3f267fd9",
-    "editor.wordHighlightBackground": "#3f267fd9",
-    "editor.wordHighlightStrongBackground": "#3f267fd9",
+    "editor.selectionBackground": "#243d93",
+    "editor.selectionHighlightBackground": "#243d93d9",
+    "editor.inactiveSelectionBackground": "#243d93d9",
+    "editor.wordHighlightBackground": "#243d93d9",
+    "editor.wordHighlightStrongBackground": "#243d93d9",
     "input.background": "#322d3f",
     "list.inactiveSelectionBackground": "#322d3f",
     "list.hoverBackground": "#322d3f",
@@ -43,17 +43,17 @@
     "list.errorForeground": "#f2f0c6",
     "list.warningForeground": "#f2f0c6",
     "editorSuggestWidget.highlightForeground": "#f2f0c6",
-    "editorWarning.foreground": "#e85353",
-    "editorMarkerNavigationWarning.background": "#e85353",
-    "debugIcon.breakpointForeground": "#e85353",
-    "debugIcon.breakpointDisabledForeground": "#e8535396",
-    "editorOverviewRuler.warningForeground": "#e8535396"
+    "editorWarning.foreground": "#e56969",
+    "editorMarkerNavigationWarning.background": "#e56969",
+    "debugIcon.breakpointForeground": "#e56969",
+    "debugIcon.breakpointDisabledForeground": "#e5696996",
+    "editorOverviewRuler.warningForeground": "#e5696996"
   },
   "tokenColors": [
     {
       "scope": "invalid",
       "settings": {
-        "foreground": "#e85353"
+        "foreground": "#e56969"
       }
     },
     {

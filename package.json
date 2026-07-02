@@ -2,7 +2,7 @@
   "name": "gurepu",
   "displayName": "Gurepu",
   "icon": "images/icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "annliu",
   "engines": {
     "vscode": "^1.116.0"
